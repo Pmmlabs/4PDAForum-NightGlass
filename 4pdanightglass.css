@@ -12,11 +12,11 @@ body {
 	/*[[repeating]]*/
 }
 
-#logostrip, #header, #navbar, #replace_navbar, #list_wrapper, #footer, .menupopup .menu .item, .post2, .bg3, .activeusers, .plainborder, .tablefill, .tablepad, .borderwrap p, .popmenubutton-new, .popmenubutton, .hidemain, .post-edit-reason, #dw-wrapper, #dw-top, #dw-bottom, .pp-image-thumb-wrap, .pp-image-thumb-wrap-floatright, .pp-image-mini-wrap, .pp-image-mini-wrap-floatright, .resized-linked-image, .darkrow3, .postcolor, .attach-menubutton, .list_item:hover,  #welcome, .errorwrap, #redirectwrap, .attach-messagediv, .exdiv, #ucpmenu, #ucpcontent, .borderwrap, .borderwrapm, .formtable td, .pformleft, .pformleftw, .pformright, .qms_unread_row, .ed-wrap .ed-p-textarea, .bb-panel-button:hover, .check_list_div, .fieldwrap {
+#logostrip, #header, #navbar, #replace_navbar, #list_wrapper, #footer, .menupopup .menu .item, .post2, .bg3, .activeusers, .plainborder, .tablefill, .tablepad, .borderwrap p, .popmenubutton-new, .popmenubutton, .hidemain, .post-edit-reason, #dw-wrapper, #dw-top, #dw-bottom, .pp-image-thumb-wrap, .pp-image-thumb-wrap-floatright, .pp-image-mini-wrap, .pp-image-mini-wrap-floatright, .resized-linked-image, .darkrow3, .postcolor, .attach-menubutton, .list_item:hover,  #welcome, .errorwrap, #redirectwrap, .attach-messagediv, .exdiv, #ucpmenu, #ucpcontent, .borderwrap, .borderwrapm, .formtable td, .pformleft, .pformleftw, .pformright, .qms_unread_row, .ed-wrap .ed-p-textarea, .bb-panel-button:hover, .check_list_div, .fieldwrap, .post-block > .block-body {
 	background: none !important;
 }
 /* text */
-body, .user_home a, #navstrip, .formsubtitle, .input-warn, .input-green, .input-checkbox, input, textarea, select, table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .forumdesc, .forumdesc a:link, .forumdesc a:visited, .forumdesc a:active, table.ipbtable, tr.ipbtable, td.ipbtable, .usercp_menu, .usercp_menu_out, .popmenubutton-new, .pp-header, .pp-tiny-text, .popupmenu-item-last, .pp-taboff, .pp-tabshaded, .desc, h4, h3, .darkrow1, .lastaction, .pp-datebox em, .quotetop, .quotemain, .ipbtable td, .hidetop, .hidemain, .popupmenu-category, .post-edit-reason, .codemain, .sqlmain, .htmlmain, .codetop, .sqltop, .htmltop,  span[style$="color:#000000"], span[style="color:black"], .resized-linked-image, #loading-layer-inner, form, .ed-wrap .ed-panel-title, .darkrow3, #thread_content .out_message .msg, .navbar-title, .navbar-title > strong, .newslink, .newslink td, .smalltext, .attach-messagediv, .pa_text h2, .foruminfo .foruminfo_news, .foruminfo_news:hover, span[style="font-weight:bold;color:#222222;"] {
+body, .user_home a, #navstrip, .formsubtitle, .input-warn, .input-green, .input-checkbox, input, textarea, select, table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .forumdesc, .forumdesc a:link, .forumdesc a:visited, .forumdesc a:active, table.ipbtable, tr.ipbtable, td.ipbtable, .usercp_menu, .usercp_menu_out, .popmenubutton-new, .pp-header, .pp-tiny-text, .popupmenu-item-last, .pp-taboff, .pp-tabshaded, .desc, h4, h3, .darkrow1, .lastaction, .pp-datebox em, .quotetop, .quotemain, .ipbtable td, .hidetop, .hidemain, .popupmenu-category, .post-edit-reason, .codemain, .sqlmain, .htmlmain, .codetop, .sqltop, .htmltop,  span[style$="color:#000000"], span[style="color:black"], .resized-linked-image, #loading-layer-inner, form, .ed-wrap .ed-panel-title, .darkrow3, #thread_content .out_message .msg, .navbar-title, .navbar-title > strong, .newslink, .newslink td, .smalltext, .attach-messagediv, .pa_text h2, .foruminfo .foruminfo_news, .foruminfo_news:hover, span[style="font-weight:bold;color:#222222;"], .post-block > .block-title, .post-block > .block-body {
 	color: white !important;
 }
 #submenu a, .navbar-title > strong, .navbar-title, #thread_content .out_message .msg, .smalltext {
@@ -91,7 +91,7 @@ table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintit
 	border: none !important;
 }
 #ipd-msg-inner {
-  background-color: #EEEEEE !important;
+	background-color: #EEEEEE !important;
 }
 #events_wrapper {
 	border: solid 2px #00FF00 !important;
@@ -103,7 +103,7 @@ table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintit
 	background: #333 !important;
 }
 /* headers */
-.pp-tabon, .hidetop, .ed-wrap .ed-panel, .posttopbar, .maintitle, table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintitlecollapse, .pp-title, .pp-header, .pp-tabclear, .btn, .btn:hover, .upopupmenu-category, h4, h3, .popupmenu-category, .codetop, .sqltop, .htmltop, .button, input[type="button"], .input-ok-content, button {
+.pp-tabon, .hidetop, .ed-wrap .ed-panel, .posttopbar, .maintitle, table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintitlecollapse, .pp-title, .pp-header, .pp-tabclear, .btn, .btn:hover, .upopupmenu-category, h4, h3, .popupmenu-category, .codetop, .sqltop, .htmltop, .button, input[type="button"], .input-ok-content, button, .post-block > .block-title {
 	background: -moz-linear-gradient(top, #444444 0%, #222222 52%, #222222 99%) !important; /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#444444), color-stop(52%,#222222), color-stop(99%,#222222))  !important; /* Chrome,Safari4+ */
 	background: -webkit-linear-gradient(top, #444444 0%,#222222 52%,#222222 99%)  !important; /* Chrome10+,Safari5.1+ */
