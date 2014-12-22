@@ -285,10 +285,10 @@ img[alt="@"] {
 	padding-right: 8px !important;
 	width: 0 !important;
 }
-/*#logostrip img {
+#logostrip img {
 	background: url('http://raw.github.com/Pmmlabs/4PDAForum-NightGlass/master/images/4pda_logo_Kilowatt.png') !important;
 	height: 98px !important;
 	padding-right: 300px !important;
 	width: 0 !important;
-}*/
+}
 }
