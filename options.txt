@@ -1,0 +1,27 @@
+Фоновое изображение (back)
+Черный фон: https://img-fotki.yandex.ru/get/4123/161026817.0/0_acd93_38f25aaa_orig
+Круги: https://img-fotki.yandex.ru/get/4129/161026817.0/0_acd92_815be373_orig
+Синий фон: https://pp.vk.me/c307311/v307311287/1e3d/NRuAUM8xzVA.jpg
+
+Положение фоновой картинки (repeating)
+Под размер окна: background-repeat: no-repeat !important;
+                 background-size: cover !important;
+Замостить: background-repeat: repeat !important;
+           background-size: auto !important;
+
+Цвет ссылок (linkcolor) #00BBFF
+
+Логотип (logo)
+Сток:
+Белый: #logostrip img {
+       	background: url('http://raw.github.com/Pmmlabs/4PDAForum-NightGlass/master/images/4pda_logo_white.png') !important;
+       	height: 134px !important;
+       	padding-right: 210px !important;
+       	width: 0 !important;
+       }
+Зимний: #logostrip img {
+        	background: url('http://raw.github.com/Pmmlabs/4PDAForum-NightGlass/master/images/4pda_logo_Kilowatt.png') !important;
+        	height: 98px !important;
+        	padding-right: 300px !important;
+        	width: 0 !important;
+        }
