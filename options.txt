@@ -25,3 +25,18 @@
         	padding-right: 300px !important;
         	width: 0 !important;
         }
+
+Кнопки хорошо и плохо
+Заменить: .formbuttonrow img[alt="-"] {
+	background: url('http://raw.github.com/Pmmlabs/4PDAForum-NightGlass/master/images/bad.png') !important;
+	height: 20px !important;
+	padding-right: 20px !important;
+	width: 0 !important;
+}
+.formbuttonrow img[alt="+"] {
+	background: url('http://raw.github.com/Pmmlabs/4PDAForum-NightGlass/master/images/good.png') !important;
+	height: 20px !important;
+	padding-right: 20px !important;
+	width: 0 !important;
+}
+Оставить:
