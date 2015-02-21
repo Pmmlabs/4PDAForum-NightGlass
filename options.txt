@@ -27,7 +27,31 @@
         }
 
 Кнопки хорошо и плохо
-Заменить: .formbuttonrow img[alt="-"] {
+Потемнее: .formbuttonrow img[alt="-"] {
+	background: url('http://raw.github.com/Pmmlabs/4PDAForum-NightGlass/master/images/bad_kilowatt.png') !important;
+	height: 19px !important;
+	padding-right: 79px !important;
+	width: 0 !important;
+}
+.formbuttonrow img[alt="+"] {
+	background: url('http://raw.github.com/Pmmlabs/4PDAForum-NightGlass/master/images/good_kilowatt.png') !important;
+	height: 19px !important;
+	padding-right: 79px !important;
+	width: 0 !important;
+}
+Темные с зеленым текстом: .formbuttonrow img[alt="-"] {
+	background: url('http://raw.github.com/Pmmlabs/4PDAForum-NightGlass/master/images/bad_kodihtik.png') !important;
+	height: 19px !important;
+	padding-right: 79px !important;
+	width: 0 !important;
+}
+.formbuttonrow img[alt="+"] {
+	background: url('http://raw.github.com/Pmmlabs/4PDAForum-NightGlass/master/images/good_kodihtik.png') !important;
+	height: 19px !important;
+	padding-right: 79px !important;
+	width: 0 !important;
+}
+Круглые: .formbuttonrow img[alt="-"] {
 	background: url('http://raw.github.com/Pmmlabs/4PDAForum-NightGlass/master/images/bad.png') !important;
 	height: 20px !important;
 	padding-right: 20px !important;
@@ -39,4 +63,4 @@
 	padding-right: 20px !important;
 	width: 0 !important;
 }
-Оставить:
+Стандартные:
