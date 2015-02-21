@@ -69,10 +69,13 @@ a:link, a:visited, a:active {
 	-moz-border-radius: 10px !important;
 	-khtml-border-radius: 10px !important;
 }
-.formtable td.formtitle, .formsubtitle, .row2, .pagelink, .pagelinklast, .pagecurrent, .minipagelink, .minipagelinklast, .pp-contentbox-back, .pp-contentbox-entry, .pp-contentbox-entry-noheight, .pp-contentbox-entry-noheight-mod, .pp-contentbox-entry-noheight-sel, .popupmenu-new, .pp-mini-content-entry, .pp-mini-content-entry-noheight, .pp-mini-entry-noheight-shaded, .post1, .bg1, .toplinks span, .pp-datebox, .popmenubutton-new, .globalmesswrap, .list_item, body[style="background:transparent;"], .globalmesswarnwrap, .list-group .list-group-item:hover, .list-group .list-group-item:active, .nav4pda, .form-bg, .form-toggle-visible .form-toggle-btn {
+.formtable td.formtitle, .formsubtitle, .row2, .pagelink, .pagelinklast, .pagecurrent, .minipagelink, .minipagelinklast, .pp-contentbox-back, .pp-contentbox-entry, .pp-contentbox-entry-noheight, .pp-contentbox-entry-noheight-mod, .pp-contentbox-entry-noheight-sel, .popupmenu-new, .pp-mini-content-entry, .pp-mini-content-entry-noheight, .pp-mini-entry-noheight-shaded, .post1, .bg1, .toplinks span, .pp-datebox, .popmenubutton-new, .globalmesswrap, .list_item, body[style="background:transparent;"], .globalmesswarnwrap, .list-group .list-group-item:active, .nav4pda, .form-bg, .form-toggle-visible .form-toggle-btn, .sidebar .list-group .list-group-item.active, #nav .active > *, .list-group > .list-group-item:hover, #nav .active:hover {
 	background: 0 0 rgba(0, 0, 0, 0.4) !important;
 }
-.row1, .popupmenu-new, .usercp_menu, .form, .list_item:hover, .menupopup .menu, .upopupmenu-new, td.formbuttonrow, .pformstrip, .borderwrap p.formbuttonrow, .borderwrap p.formbuttonrow1, .bar, .barb, .barc, .popupmenu, .attach-popupmenu, .attach-menu-row-over, .qms_unread_row, .list_item.active, #events-wrapper, .list-group .list-group-item, .navbar, #nav .active > *, .dropdown-menu {
+.navbar {	/* навигация в QMS */
+	background: 0 0 rgba(0, 0, 0, 0.6) !important;
+}
+.row1, .popupmenu-new, .usercp_menu, .form, .list_item:hover, .menupopup .menu, .upopupmenu-new, td.formbuttonrow, .pformstrip, .borderwrap p.formbuttonrow, .borderwrap p.formbuttonrow1, .bar, .barb, .barc, .popupmenu, .attach-popupmenu, .attach-menu-row-over, .qms_unread_row, .list_item.active, #events-wrapper, .list-group .list-group-item, .dropdown-menu {
 	background: rgba(0, 0, 0, 0.7) !important;
 }
 .codemain, .sqlmain, .htmlmain, .searchinput, textarea, .ed-wrap .ed-bbcode-hover, #_fskit, #ipb-file-upload-box, input, #events-list > a:hover, #nav ul li > .slider-active, #nav ul li > *:hover { /* white */
@@ -85,7 +88,10 @@ a:link, a:visited, a:active {
 	background: rgba(66, 115, 173, 0.3) !important;
 }
 .row4shaded2, .post1shaded2, .post2shaded2, .ex .block-title { /* red cell. warning */
-	background: rgba(255, 120, 120, 0.3) !important;
+	background: rgba(255, 100, 100, 0.6) !important;
+}
+.post-block.tbl > .block-title {
+    border-radius: 10px 0 0 10px;
 }
 .input-warn, .input-green, .input-checkbox, textarea.textarea, select, .popmenubutton-new, .quotemain {
 	background-color: #454545 !important;
