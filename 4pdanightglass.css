@@ -78,10 +78,10 @@ a:link, a:visited, a:active {
 .navbar, .slider-content {	/* навигация в QMS */
 	background: 0 0 rgba(0, 0, 0, 0.6) !important;
 }
-.row1, .popupmenu-new, .usercp_menu, .form, .list_item:hover, .menupopup .menu, .upopupmenu-new, td.formbuttonrow, .pformstrip, .borderwrap p.formbuttonrow, .borderwrap p.formbuttonrow1, .bar, .barb, .barc, .popupmenu, .attach-popupmenu, .attach-menu-row-over, .qms_unread_row, .list_item.active, #events-wrapper, .list-group .list-group-item, .dropdown-menu, .slider-content .meta-box {
+.ac_results, .row1, .popupmenu-new, .usercp_menu, .form, .list_item:hover, .menupopup .menu, .upopupmenu-new, td.formbuttonrow, .pformstrip, .borderwrap p.formbuttonrow, .borderwrap p.formbuttonrow1, .bar, .barb, .barc, .popupmenu, .attach-popupmenu, .attach-menu-row-over, .qms_unread_row, .list_item.active, #events-wrapper, .list-group .list-group-item, .dropdown-menu, .slider-content .meta-box {
 	background: rgba(0, 0, 0, 0.7) !important;
 }
-.codemain, .sqlmain, .htmlmain, .searchinput, textarea, .ed-wrap .ed-bbcode-hover, #_fskit, #ipb-file-upload-box, input, #events-list > a:hover, #nav ul li > .slider-active, #nav ul li > *:hover { /* white */
+.ac_over, .codemain, .sqlmain, .htmlmain, .searchinput, textarea, .ed-wrap .ed-bbcode-hover, #_fskit, #ipb-file-upload-box, input, #events-list > a:hover, #nav ul li > .slider-active, #nav ul li > *:hover { /* white */
 	background: rgba(255, 255, 255, 0.1) !important;
 }
 .row2shaded, .post1shaded, .cur .block-title, #ipbwrapper > div[style*="background:#dff0d8"] { /* зеленый фон (куратор и добавлено в закладки) */
