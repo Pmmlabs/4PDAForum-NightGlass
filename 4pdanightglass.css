@@ -137,7 +137,7 @@ table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintit
 	padding-left: 10px !important;
 }
 #header .h-frame { /* QMS верхушка с градиентом */
-	background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)) !important;
+	background: linear-gradient(to top, transparent, black) !important;
 }
 /* other */
 #userlinks p, #userlinksguest p {
