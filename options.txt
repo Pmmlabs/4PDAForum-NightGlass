@@ -1,6 +1,6 @@
 Фоновое изображение (back)
-Черный фон: https://img-fotki.yandex.ru/get/4123/161026817.0/0_acd93_38f25aaa_orig
-Круги: https://img-fotki.yandex.ru/get/4129/161026817.0/0_acd92_815be373_orig
+Черный фон: http://raw.github.com/Pmmlabs/4PDAForum-NightGlass/master/images/wallpaper_black.jpg
+Круги: http://raw.github.com/Pmmlabs/4PDAForum-NightGlass/master/images/wallpaper_circles.jpg
 Синий фон: https://pp.vk.me/c307311/v307311287/1e3d/NRuAUM8xzVA.jpg
 
 Положение фоновой картинки (repeating)
