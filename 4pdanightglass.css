@@ -3,6 +3,7 @@
 	display: none !important;
 }
 body {
+    /*noinspection CssUnknownTarget*/
 	background-image: url("/*[[back]]*/") !important;
 	background-color: #111 !important;
 	background-attachment: fixed !important;
@@ -26,7 +27,7 @@ body, .user_home a, #navstrip, .formsubtitle, .input-warn, .input-green, .input-
 	background-color: black !important;
 }
 .codemain, .sqlmain, .htmlmain {
-    font-family: Consolas,"Courier New",Verdana,Arial !important;
+    font-family: Consolas, "Courier New", Verdana, Arial, serif !important;
 }
 /* text colors replace */
 span[style="color:blue"], span[style="color:#0000ff"],  span[style="color:darkblue"], span[style="color:royalblue"], span[style="color:indigo"], span[style="color:#000080"], .newslink span, span[style="color:#000099"] {
@@ -144,6 +145,7 @@ table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintit
 	font-size: 12px !important;
 }
 .hidemain {
+    /*noinspection CssInvalidPropertyValue*/
 	border-color: -moz-use-text-color white white #8394B2 !important;
 }
 .exdiv {
