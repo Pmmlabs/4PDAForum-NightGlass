@@ -36,7 +36,7 @@ span[style="color:blue"], span[style="color:#0000ff"],  span[style="color:darkbl
 .signature {
 	color: #AAA !important;
 }
-span[style="color:red"], span[style="color:#FF0000"], span[style="color:darkred"], span[style="color:crimson"], .errorwrap p {
+span[style="color:red"], span[style="color:#FF0000"], span[style="color:darkred"], span[style="color:crimson"], .errorwrap p, .globalmesswarncontent  {
 	color: #ff6666 !important;
 }
 span[style="color:purple"] {
