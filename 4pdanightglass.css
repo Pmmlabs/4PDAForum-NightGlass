@@ -13,7 +13,7 @@ body {
 	/*[[repeating]]*/
 }
 
-.lb-outerContainer, #logostrip, #header, #navbar, #replace_navbar, #list_wrapper, #footer, .menupopup .menu .item, .post2, .bg3, .activeusers, .plainborder, .tablefill, .tablepad, .borderwrap p, .popmenubutton-new, .popmenubutton, .hidemain, .post-edit-reason, #dw-wrapper, #dw-top, #dw-bottom, .pp-image-thumb-wrap, .pp-image-thumb-wrap-floatright, .pp-image-mini-wrap, .pp-image-mini-wrap-floatright, .resized-linked-image, .darkrow3, .postcolor, .attach-menubutton, .list_item:hover,  #welcome, .errorwrap, #redirectwrap, .attach-messagediv, .exdiv, #ucpmenu, #ucpcontent, .borderwrap, .borderwrapm, .formtable td, .pformleft, .pformleftw, .pformright, .qms_unread_row, .ed-wrap .ed-p-textarea, .bb-panel-button:hover, .check_list_div, .fieldwrap, .post-block > .block-body, .header, .sidebar, .footer-panel, .search-form, .events-count, .i-code:hover, .slider-content:after {
+.lb-outerContainer, #logostrip, #header, #navbar, #replace_navbar, #list_wrapper, #footer, .menupopup .menu .item, .post2, .bg3, .activeusers, .plainborder, .tablefill, .tablepad, .borderwrap p, .popmenubutton-new, .popmenubutton, .hidemain, .post-edit-reason, #dw-wrapper, #dw-top, #dw-bottom, .pp-image-thumb-wrap, .pp-image-thumb-wrap-floatright, .pp-image-mini-wrap, .pp-image-mini-wrap-floatright, .resized-linked-image, .darkrow3, .postcolor, .attach-menubutton, .list_item:hover,  #welcome, .errorwrap, #redirectwrap, .attach-messagediv, .exdiv, #ucpmenu, #ucpcontent, .borderwrap, .borderwrapm, .formtable td, .pformleft, .pformleftw, .pformright, .qms_unread_row, .ed-wrap .ed-p-textarea, .bb-panel-button:hover, .check_list_div, .fieldwrap, .post-block > .block-body, .header, .sidebar, .footer-panel, .search-form, .events-count, .i-code:hover, .slider-content:after, .input-wrap, .captcha {
 	background: none !important;
 }
 /* text */
@@ -63,7 +63,7 @@ a:link, a:visited, a:active {
 }
 
 /* blocks */
-.borderwrap, #userlinks, #userlinksguest, .copyright, #gfooter, .moddiv, #dw-body, .curdiv, #loading-layer-inner, .newslink, #ipbcontent, .ipbpagespan, .ipbnav, .ipbnavsmall, #ipbwrapper > .ipbtable, .message_item.in_message, .post-block.tbl.cur, .post-block.tbl.mod, .post-block.tbl.ex, body > div > div > div > div > div > form > ul > li, .footer-nav {
+.borderwrap, #userlinks, #userlinksguest, .copyright, #gfooter, .moddiv, #dw-body, .curdiv, #loading-layer-inner, .newslink, #ipbcontent, .ipbpagespan, .ipbnav, .ipbnavsmall, #ipbwrapper > .ipbtable, .message_item.in_message, .post-block.tbl.cur, .post-block.tbl.mod, .post-block.tbl.ex, body > div > div > div > div > div > form > ul > li, .footer-nav, .page {
 	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7) !important;
 	border: none !important;
 	box-shadow: 0 0 4px white;
@@ -91,7 +91,7 @@ a:link, a:visited, a:active {
 .mod .block-title { /* blue moder cell. */
 	background: rgba(66, 115, 173, 0.3) !important;
 }
-.row4shaded2, .post1shaded2, .post2shaded2, .ex .block-title { /* red cell. warning */
+.row4shaded2, .post1shaded2, .post2shaded2, .ex .block-title, .error-content { /* red cell. warning */
 	background: rgba(255, 100, 100, 0.6) !important;
 }
 .post-block.tbl > .block-title {
@@ -100,7 +100,7 @@ a:link, a:visited, a:active {
 .input-warn, .input-green, .input-checkbox, textarea.textarea, select, .popmenubutton-new, .quotemain, .u-note::after {
 	background-color: #454545 !important;
 }
-table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintitle, .maintitlecollapse, .globalmesswrap, #ucpmenu, #ucpcontent, .borderwrap, .borderwrapm {
+table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintitle, .maintitlecollapse, .globalmesswrap, #ucpmenu, #ucpcontent, .borderwrap, .borderwrapm, #h-wrapper {
 	border: none !important;
 }
 #ipd-msg-inner {
