@@ -74,7 +74,7 @@ a:link, a:visited, a:active {
 	-moz-border-radius: 10px !important;
 	-khtml-border-radius: 10px !important;
 }
-.content, .formtable td.formtitle, .formsubtitle, .row2, .pagelink, .pagelinklast, .pagecurrent, .minipagelink, .minipagelinklast, .pp-contentbox-back, .pp-contentbox-entry, .pp-contentbox-entry-noheight, .pp-contentbox-entry-noheight-mod, .pp-contentbox-entry-noheight-sel, .popupmenu-new, .pp-mini-content-entry, .pp-mini-content-entry-noheight, .pp-mini-entry-noheight-shaded, .post1, .bg1, .toplinks span, .pp-datebox, .popmenubutton-new, .globalmesswrap, .list_item, body[style="background:transparent;"], .globalmesswarnwrap, .list-group .list-group-item:active, .nav4pda, .form-bg, .form-toggle-visible .form-toggle-btn, .sidebar .list-group .list-group-item.active, #nav .active > *, .list-group > .list-group-item:hover, #nav .active:hover {
+#go_1, .content, .formtable td.formtitle, .formsubtitle, .row2, .pagelink, .pagelinklast, .pagecurrent, .minipagelink, .minipagelinklast, .pp-contentbox-back, .pp-contentbox-entry, .pp-contentbox-entry-noheight, .pp-contentbox-entry-noheight-mod, .pp-contentbox-entry-noheight-sel, .popupmenu-new, .pp-mini-content-entry, .pp-mini-content-entry-noheight, .pp-mini-entry-noheight-shaded, .post1, .bg1, .toplinks span, .pp-datebox, .popmenubutton-new, .globalmesswrap, .list_item, body[style="background:transparent;"], .globalmesswarnwrap, .list-group .list-group-item:active, .nav4pda, .form-bg, .form-toggle-visible .form-toggle-btn, .sidebar .list-group .list-group-item.active, #nav .active > *, .list-group > .list-group-item:hover, #nav .active:hover {
 	background: 0 0 rgba(0, 0, 0, 0.4) !important;
 }
 .navbar, .slider-content {	/* навигация в QMS */
