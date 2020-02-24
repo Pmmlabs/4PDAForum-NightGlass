@@ -161,11 +161,15 @@ table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintit
 button {
 	border-color: #555 !important;
 }
+	/* репутация */
 .g-btn.red {
 	background: linear-gradient(to bottom, #985556 0%, #782224 100%) !important;
 }
 .g-btn.green {
 	background: linear-gradient(to bottom, #677e38 0%, #455a1d 100%) !important;
+}
+.g-btn.min-90 {
+	color: #ededed !important;
 }
 .barc, .usercp_menu_out, .navbar {
 	border-color: transparent !important;
@@ -175,7 +179,7 @@ button {
 }
 /* fix for qms */
 #thread_content .msg {
-	padding: 0 !important; 
+	padding: 0 !important;
 }
 .message_item {
 	margin-top: 1em !important;
@@ -191,7 +195,7 @@ img[alt="Ответить"] {
 	padding-right: 89px !important;
 	width: 0 !important;
 }
-img[src$="pip.gif"] { /* .postdetails img[alt="*"], .row1 img[alt="*"] {*/
+.postdetails img[alt="*"] { /* img[src$="pip.gif"], .row1 img[alt="*"] {*/
 	background: url('http://raw.github.com/Pmmlabs/4PDAForum-NightGlass/master/images/pip.png') !important;
 	height: 10px !important;
 	padding-right: 11px !important;
@@ -238,7 +242,7 @@ img[src$="pip.gif"] { /* .postdetails img[alt="*"], .row1 img[alt="*"] {*/
 	background: url('http://raw.github.com/Pmmlabs/4PDAForum-NightGlass/master/images/to_post_off.png') !important;
 	height: 7px !important;
 	padding-right: 8px !important;
-	width: 0 !important;	
+	width: 0 !important;
 }
 #loading-layer-inner img, img[src$="attach_wait.gif"] {
 	background: url('http://raw.github.com/Pmmlabs/4PDAForum-NightGlass/master/images/loading_anim.gif') !important;
